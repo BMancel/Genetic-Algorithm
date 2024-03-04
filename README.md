@@ -4,7 +4,7 @@ We use a genetic solver to solve many problems
 ## Authors
 
 - [@BMancel](https://github.com/BMancel)
-- [@Ratislav insert your account + URL]
+- [@rastokmeEPF](https://github.com/rastokmeEPF)
 
 
 ## Installation
